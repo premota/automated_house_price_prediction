@@ -1,0 +1,5 @@
+pandas2.1.4
+numpy1 0.0.1
+seaborn 0.13.0
+scikit-learn 1.3.2
+-e .
