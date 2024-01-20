@@ -1,157 +1,157 @@
-index,sub_area,n_bhk,surface,price,company_name,township,club_house,school,hospital,mall,park,pool,gym
-6,mahalunge,3.0,975.0,9.5,godrej properties,godrej hills retreat,yes,yes,yes,yes,yes,yes,yes
-68,kayani nagar,3.0,1698.0,24.9,sagitarius ecospaces llp,bluegrass residences,yes,no,no,no,yes,yes,yes
-141,vimannagar,3.0,1189.0,14.9,oxy buildcorp,oxy beaumonde,yes,no,no,no,yes,yes,yes
-102,bt kawade rd,2.0,871.0,9.6,kundan spaces,eternia 2.0,yes,no,no,no,yes,yes,yes
-173,manjri,3.0,1073.5,10.9,kalpataru,kalpataru serenity,yes,no,no,no,yes,yes,yes
-128,hinjewadi,4.0,1400.0,14.0,shapoorji paloonji,sensorium,yes,no,no,no,yes,yes,yes
-170,handewadi,2.0,727.0,4.574000000000001,majestique landmarks,rhythm county,no,no,no,no,yes,yes,no
-13,ravet,6.0,2220.0,18.8,urban space creator,urban skyline,yes,no,no,no,yes,yes,yes
-36,balewadi,2.0,684.0,7.0,mantra properties,mantra monarch,yes,no,no,no,yes,yes,yes
-167,bavdhan budruk,3.0,908.0,8.25,puraniks,abitante fiore,yes,no,no,no,yes,yes,yes
-44,kirkatwadi sinhagad road,2.0,473.0,2.2,mantra properties,7hills,yes,no,no,no,yes,yes,yes
-69,kayani nagar,4.0,2267.0,46.0,sagitarius ecospaces llp,bluegrass residences,yes,no,no,no,yes,yes,yes
-140,vimannagar,3.0,1168.0,14.7,oxy buildcorp,oxy beaumonde,yes,no,no,no,yes,yes,yes
-83,handewadi,1.0,456.0,3.35,jhala group,simplicity,yes,no,no,no,yes,no,yes
-123,magarpatta,3.0,947.0,9.7,ace constructions,anutham,yes,no,no,no,yes,no,no
-129,hinjewadi,5.0,1772.0,17.7,shapoorji paloonji,sensorium,yes,no,no,no,yes,yes,yes
-30,kharadi,3.0,934.0,6.5,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
-137,vimannagar,2.0,793.0,11.0,oxy buildcorp,oxy beaumonde,yes,no,no,no,yes,yes,yes
-175,kharadi,2.0,546.0,5.399000000000001,vijaya laxmi creations,satyam shivam,yes,no,no,no,yes,no,yes
-54,tathawade,2.0,659.0,5.1000000000000005,ravima ventures,newton homes,no,no,no,no,yes,no,yes
-171,handewadi,3.0,923.0,5.8950000000000005,majestique landmarks,rhythm county,no,no,no,no,yes,yes,no
-39,koregaon park,3.0,1103.0,12.0,mantra properties,infinity,yes,no,no,no,yes,yes,yes
-32,kharadi,3.0,1109.0,7.6,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
-101,bt kawade rd,2.0,761.0,8.5,kundan spaces,eternia 2.0,yes,no,no,no,yes,yes,yes
-163,bavdhan budruk,2.0,598.0,5.53,puraniks,abitante fiore,yes,no,no,no,yes,yes,yes
-43,kirkatwadi sinhagad road,1.0,320.0,1.4,mantra properties,7hills,yes,no,no,no,yes,yes,yes
-196,baner,3.0,1350.0,16.0,supreme,supreme estia,yes,no,no,no,yes,yes,yes
-106,bt kawade rd,3.0,1279.0,14.0,kundan spaces,eternia 2.0,yes,no,no,no,yes,yes,yes
-27,kharadi,2.0,902.0,6.300000000000001,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
-151,susgaon,2.0,611.0,4.75,porwal & anand develkoper,parklane urbanjoy,yes,no,no,no,yes,yes,yes
-153,susgaon,2.0,691.0,5.526,porwal & anand develkoper,parklane urbanjoy,yes,no,no,no,yes,yes,yes
-187,bavdhan,1.0,408.0,3.949,vijaya laxmi infrarealtors,satyam shery,yes,no,no,no,yes,no,no
-3,bavdhan,3.0,889.0,7.4,shapoorji paloonji,vanaha,yes,yes,yes,yes,yes,yes,yes
-48,akurdi,3.0,989.0,10.1,mantra properties,mantra sky tower,yes,no,no,no,yes,yes,yes
-109,handewadi,1.0,436.0,3.058,lush life,impero,no,no,no,no,yes,no,no
-149,wadgaon sheri,2.0,873.0,8.3,bhaktamar realities,bhaktamar residency,yes,no,no,no,yes,yes,yes
-164,bavdhan budruk,2.0,616.0,5.65,puraniks,abitante fiore,yes,no,no,no,yes,yes,yes
-37,balewadi,3.0,990.0,9.0,mantra properties,mantra monarch,yes,no,no,no,yes,yes,yes
-191,bavdhan,2.0,665.0,6.499,vijaya laxmi infrarealtors,satyam shery,yes,no,no,no,yes,no,no
-23,kharadi,1.0,446.0,3.7,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
-132,hadapsar,5.0,1662.0,13.0,wellwisher apartments,kiarah terrazo,no,no,no,no,yes,no,no
-95,nibm,3.0,1388.0,17.8,kundan spaces,presidia,yes,no,no,no,yes,yes,yes
-34,kharadi,3.0,1419.0,9.6,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
-12,ravet,5.0,2220.0,18.8,urban space creator,urban skyline,yes,no,no,no,yes,yes,yes
-130,hadapsar,2.0,732.0,6.88,wellwisher apartments,kiarah terrazo,no,no,no,no,yes,no,no
-160,dhanori,3.0,996.0,8.9,keystone landmark,oxy eterno,no,no,no,no,yes,no,no
-7,balewadi,2.0,894.5,7.5,anp corp,anp universe,yes,no,no,no,yes,yes,yes
-28,kharadi,2.0,1154.0,7.9,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
-114,handewadi,3.0,810.0,5.4,lush life,impero,no,no,no,no,yes,no,no
-5,mahalunge,2.0,743.0,7.4,godrej properties,godrej hills retreat,yes,yes,yes,yes,yes,yes,yes
-33,kharadi,3.0,1163.0,8.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
-198,baner,2.0,789.0,9.5,tejraaj group,tej elevia,no,no,no,no,yes,yes,yes
-146,bt kawade rd,3.0,1086.0,10.8,kohinoor group,presidenta,no,no,no,no,yes,yes,yes
-103,bt kawade rd,3.0,1166.0,12.9,kundan spaces,eternia 2.0,yes,no,no,no,yes,yes,yes
-145,bt kawade rd,2.0,808.0,8.149,kohinoor group,presidenta,no,no,no,no,yes,yes,yes
-11,ravet,4.0,1644.0,13.5,urban space creator,urban skyline,yes,no,no,no,yes,yes,yes
-65,kiwale,2.5,936.0,7.503,unique properties,k ville,yes,no,no,no,yes,yes,no
-105,bt kawade rd,3.0,1272.0,13.9,kundan spaces,eternia 2.0,yes,no,no,no,yes,yes,yes
-147,wadgaon sheri,2.0,785.0,7.45,bhaktamar realities,bhaktamar residency,yes,no,no,no,yes,yes,yes
-1,bavdhan,1.0,492.0,3.9,shapoorji paloonji,vanaha,yes,yes,yes,yes,yes,yes,yes
-180,wadgaon sheri,2.0,850.0,7.300000000000001,vijaya laxmi creations,satyam serenity,yes,no,no,no,yes,no,yes
-183,baner,3.0,1272.5,17.5,kalpataru,jade residences,no,no,no,no,yes,yes,no
-73,pisoli,2.0,744.0,5.056000000000001,nirman developers,brookefield willows,yes,no,no,no,yes,yes,yes
-116,karvanagar,2.0,783.0,11.8,maha anand pinnac associates,river dale residency,no,no,no,no,yes,no,yes
-67,kiwale,3.0,1032.0,8.209999999999999,unique properties,k ville,yes,no,no,no,yes,yes,no
-46,akurdi,2.0,790.0,8.0,mantra properties,mantra sky tower,yes,no,no,no,yes,yes,yes
-131,hadapsar,2.0,751.0,6.88,wellwisher apartments,kiarah terrazo,no,no,no,no,yes,no,no
-29,kharadi,3.0,872.0,6.1000000000000005,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
-41,keshav nagar,2.0,963.0,5.7,mantra properties,mantra insignia,yes,no,no,no,yes,yes,yes
-122,magarpatta,2.0,810.0,7.9,ace constructions,anutham,yes,no,no,no,yes,no,no
-185,baner,4.5,2447.0,42.0,kalpataru,jade residences,no,no,no,no,yes,yes,no
-157,mohammadwadi,2.0,715.0,4.55,porwal  develkoper,khush vista,yes,no,no,no,yes,no,no
-26,kharadi,2.0,865.0,6.1000000000000005,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
-24,kharadi,2.0,796.0,5.7,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
-152,susgaon,2.0,626.0,4.843,porwal & anand develkoper,parklane urbanjoy,yes,no,no,no,yes,yes,yes
-148,wadgaon sheri,2.0,844.0,8.059000000000001,bhaktamar realities,bhaktamar residency,yes,no,no,no,yes,yes,yes
-86,koregoan,3.0,1060.0,13.6,shroff developers,aureta,no,no,no,no,yes,yes,yes
-113,handewadi,2.0,668.0,4.5520000000000005,lush life,impero,no,no,no,no,yes,no,no
-84,handewadi,2.0,644.0,4.73,jhala group,simplicity,yes,no,no,no,yes,no,yes
-89,mundhwa,2.0,670.0,4.7700000000000005,unique properties,unique legacy royale,no,no,no,no,yes,no,yes
-40,keshav nagar,1.0,543.0,4.2,mantra properties,mantra insignia,yes,no,no,no,yes,yes,yes
-64,kiwale,2.5,847.0,6.938,unique properties,k ville,yes,no,no,no,yes,yes,no
-125,hinjewadi,2.0,711.0,6.841,shapoorji paloonji,sensorium,yes,no,no,no,yes,yes,yes
-91,mundhwa,2.0,682.0,4.791,unique properties,unique legacy royale,no,no,no,no,yes,no,yes
-82,mahalunge,3.0,1093.0,9.2,jhala group,mahalunge riviera,yes,no,no,no,yes,yes,yes
-195,baner,3.0,1135.0,12.9,supreme,supreme estia,yes,no,no,no,yes,yes,yes
-169,lonavala,4.0,2043.0,21.5,puraniks,puraniks sayama,yes,no,no,no,yes,yes,yes
-49,akurdi,3.0,1003.0,10.3,mantra properties,mantra sky tower,yes,no,no,no,yes,yes,yes
-99,bt kawade rd,1.0,575.0,6.5,kundan spaces,eternia 2.0,yes,no,no,no,yes,yes,yes
-155,susgaon,3.0,854.0,6.7,porwal & anand develkoper,parklane urbanjoy,yes,no,no,no,yes,yes,yes
-45,kirkatwadi sinhagad road,3.0,581.0,2.6,mantra properties,7hills,yes,no,no,no,yes,yes,yes
-179,wadgaon sheri,2.0,780.0,7.0,vijaya laxmi creations,satyam serenity,yes,no,no,no,yes,no,yes
-4,bavdhan,3.0,1018.0,8.9,shapoorji paloonji,vanaha,yes,yes,yes,yes,yes,yes,yes
-110,handewadi,2.0,637.0,4.349,lush life,impero,no,no,no,no,yes,no,no
-56,tathawade,3.0,809.0,6.6000000000000005,ravima ventures,newton homes,no,no,no,no,no,no,yes
-138,vimannagar,2.0,904.0,11.8,oxy buildcorp,oxy beaumonde,yes,no,no,no,yes,yes,yes
-181,wadgaon sheri,2.0,900.0,7.800000000000001,vijaya laxmi creations,satyam serenity,yes,no,no,no,yes,no,yes
-158,dhanori,2.0,692.5,5.9,keystone landmark,oxy eterno,no,no,no,no,yes,no,no
-186,bavdhan,1.0,405.0,3.949,vijaya laxmi infrarealtors,satyam shery,yes,no,no,no,yes,no,no
-51,akurdi,5.0,1579.0,16.3,mantra properties,mantra sky tower,yes,no,no,no,yes,yes,yes
-85,handewadi,2.5,785.0,5.522,jhala group,simplicity,yes,no,no,no,yes,no,yes
-35,kharadi,3.0,1485.0,10.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
-8,balewadi,3.0,1174.5,10.0,anp corp,anp universe,yes,no,no,no,yes,yes,yes
-115,karvanagar,2.0,735.0,11.1,maha anand pinnac associates,river dale residency,no,no,no,no,yes,no,yes
-96,nibm,3.0,1463.0,18.7,kundan spaces,presidia,yes,no,no,no,yes,yes,yes
-88,mundhwa,2.0,664.0,4.759,unique properties,unique legacy royale,no,no,no,no,yes,no,yes
-177,wadgaon sheri,1.0,378.0,3.3000000000000003,vijaya laxmi creations,satyam serenity,yes,no,no,no,yes,no,yes
-182,wadgaon sheri,2.0,930.0,8.3,vijaya laxmi creations,satyam serenity,yes,no,no,no,yes,no,yes
-94,nibm,3.0,1315.0,17.0,kundan spaces,presidia,yes,no,no,no,yes,yes,yes
-9,ravet,2.0,905.0,6.5,urban space creator,urban skyline,yes,no,no,no,yes,yes,yes
-14,baner,2.0,753.5,5.800000000000001,vtp reality,vtp cierra,yes,no,no,no,yes,yes,yes
-62,kiwale,2.0,670.0,5.414000000000001,unique properties,k ville,yes,no,no,no,yes,yes,no
-172,manjri,2.0,731.5,5.9,kalpataru,kalpataru serenity,yes,no,no,no,yes,yes,yes
-136,vimannagar,2.0,734.0,9.5,oxy buildcorp,oxy beaumonde,yes,no,no,no,yes,yes,yes
-18,mahalunge,3.0,878.5,7.800000000000001,vtp reality,vtp blue water,yes,no,no,no,yes,yes,yes
-77,manjri,2.0,670.0,5.5,jhala group,tranquility annexe,yes,no,no,no,yes,yes,yes
-176,kharadi,2.0,629.0,5.9990000000000006,vijaya laxmi creations,satyam shivam,yes,no,no,no,yes,no,yes
-139,vimannagar,3.0,1154.0,14.6,oxy buildcorp,oxy beaumonde,yes,no,no,no,yes,yes,yes
-168,lonavala,3.0,1624.0,15.9,puraniks,puraniks sayama,yes,no,no,no,yes,yes,yes
-199,baner,3.0,1107.0,13.5,tejraaj group,tej elevia,no,no,no,no,yes,yes,yes
-66,kiwale,3.0,990.0,7.902,unique properties,k ville,yes,no,no,no,yes,yes,no
-57,hadapsar,1.0,460.0,4.55,proviso group,lesiure town,no,no,no,no,yes,yes,yes
-112,handewadi,2.0,655.0,4.444,lush life,impero,no,no,no,no,yes,no,no
-53,tathawade,1.0,491.0,3.9,ravima ventures,newton homes,no,no,no,no,yes,no,yes
-197,baner,4.0,1600.0,23.0,supreme,supreme estia,yes,no,no,no,yes,yes,yes
-61,hadapsar,3.0,917.0,8.4,ravima ventures,newton homes,no,no,no,no,yes,no,no
-50,akurdi,3.0,1182.0,12.8,mantra properties,mantra sky tower,yes,no,no,no,yes,yes,yes
-93,nibm,3.0,1239.0,16.1,kundan spaces,presidia,yes,no,no,no,yes,yes,yes
-22,ravet,3.0,1030.0,7.9,sukwani associates,sukwani aspire,yes,no,no,no,yes,yes,yes
-60,hadapsar,2.0,675.0,6.2,ravima ventures,newton homes,no,no,no,no,yes,no,no
-165,bavdhan budruk,2.0,692.0,6.23,puraniks,abitante fiore,yes,no,no,no,yes,yes,yes
-194,baner,2.0,730.0,8.700000000000001,supreme,supreme estia,yes,no,no,no,yes,yes,yes
-134,ravet,2.0,726.0,5.1000000000000005,dolphin group,dolphin garima,no,no,no,no,no,no,yes
-38,koregaon park,2.0,882.0,9.7,mantra properties,infinity,yes,no,no,no,yes,yes,yes
-162,bavdhan budruk,1.0,489.0,4.38,puraniks,abitante fiore,yes,no,no,no,yes,yes,yes
-189,bavdhan,2.0,667.0,6.499,vijaya laxmi infrarealtors,satyam shery,yes,no,no,no,yes,no,no
-2,bavdhan,2.0,774.0,6.5,shapoorji paloonji,vanaha,yes,yes,yes,yes,yes,yes,yes
-55,tathawade,2.0,732.0,6.0,ravima ventures,newton homes,no,no,no,no,yes,no,yes
-154,susgaon,3.0,835.0,6.6000000000000005,porwal & anand develkoper,parklane urbanjoy,yes,no,no,no,yes,yes,yes
-135,ravet,2.0,809.0,5.6000000000000005,dolphin group,dolphin garima,no,no,no,no,no,no,yes
-156,mohammadwadi,2.0,626.0,4.57,porwal  develkoper,khush vista,yes,no,no,no,yes,no,no
-108,undri,2.0,717.0,4.74,venkatesh bhoomi construction,bliss solitaire,no,no,no,no,yes,no,no
-104,bt kawade rd,3.0,1206.0,13.3,kundan spaces,eternia 2.0,yes,no,no,no,yes,yes,yes
-121,nibm,2.0,725.0,5.2,vasupujya corporation,neco beaumont,yes,no,no,no,yes,no,yes
-92,mundhwa,2.0,698.0,4.8020000000000005,unique properties,unique legacy royale,no,no,no,no,yes,no,yes
-79,mahalunge,2.0,1180.0,6.800000000000001,jhala group,mahalunge riviera,yes,no,no,no,yes,yes,yes
-126,hinjewadi,2.0,792.0,7.800000000000001,shapoorji paloonji,sensorium,yes,no,no,no,yes,yes,yes
-200,baner,2.0,776.0,9.068,vtp reality,vtp solitaire,yes,no,no,no,yes,yes,yes
-21,ravet,2.0,750.0,5.7,sukwani associates,sukwani aspire,yes,no,no,no,yes,yes,yes
-193,talegoan,2.0,385.0,1.729,calyx spaces,atulya kanhe,yes,no,no,no,yes,no,yes
-76,manjri,1.0,446.0,3.6,jhala group,tranquility annexe,yes,no,no,no,yes,yes,yes
-111,handewadi,2.0,642.0,4.383,lush life,impero,no,no,no,no,yes,no,no
-15,baner,3.0,1051.0,9.5,vtp reality,vtp cierra,yes,no,no,no,yes,yes,yes
-97,nibm,3.5,1671.0,21.1,kundan spaces,presidia,yes,no,no,no,yes,yes,yes
-184,baner,3.5,1740.0,25.0,kalpataru,jade residences,no,no,no,no,yes,yes,no
-107,undri,2.0,646.0,4.32,venkatesh bhoomi construction,bliss solitaire,no,no,no,no,yes,no,no
+surface,n_bhk,sa1,pool,sa9,sa7,sa2,sa5,price
+0.2177398276072474,3.0,0,1,0,0,0,0,9.5
+2.145122892793568,3.0,0,1,0,0,0,0,24.9
+0.788223888395453,3.0,0,1,0,0,0,0,14.9
+-0.0595047626823478,2.0,0,1,0,0,0,0,9.6
+0.4803224443719121,3.0,0,1,0,0,0,0,10.9
+1.3507105090791511,4.0,0,1,0,0,0,0,14.0
+-0.4433818876987105,2.0,0,1,0,0,0,1,4.574000000000001
+3.536677470977883,6.0,0,1,0,0,0,0,18.8
+-0.5580118625299855,2.0,0,1,0,0,0,0,7.0
+0.039130331939912,3.0,0,1,0,0,0,0,8.25
+-1.1204984832136835,2.0,0,1,0,0,0,0,2.2
+3.661970699281835,4.0,0,1,0,0,0,0,46.0
+0.7322418076639001,3.0,0,1,0,0,0,0,14.7
+-1.1658173104725595,1.0,0,0,0,0,0,1,3.35
+0.1430970532985102,3.0,0,0,0,0,0,0,9.7
+2.342393082038088,5.0,0,1,0,0,0,0,17.7
+0.1084414795123108,3.0,0,0,0,1,0,0,6.5
+-0.2674382053995442,2.0,0,1,0,0,0,0,11.0
+-0.925894107337333,2.0,0,0,0,1,0,0,5.399000000000001
+-0.624657196734215,2.0,0,0,0,0,0,0,5.1000000000000005
+0.0791175324624497,3.0,0,1,0,0,0,1,5.8950000000000005
+0.5589639387329031,3.0,0,1,0,0,0,0,12.0
+0.5749588189419182,3.0,0,0,0,1,0,0,7.6
+-0.3527442331809582,2.0,0,1,0,0,0,0,8.5
+-0.7872718121925354,2.0,0,1,0,0,0,0,5.53
+-1.5283679285435687,1.0,0,1,0,0,0,0,1.4
+1.2174198406706918,3.0,1,1,0,0,0,0,16.0
+1.0281470915306796,3.0,0,1,0,0,0,0,14.0
+0.0231354517308969,2.0,0,0,0,1,0,0,6.300000000000001
+-0.752616238406336,2.0,0,1,0,0,0,0,4.75
+-0.5393511689528011,2.0,0,1,0,0,0,0,5.526
+-1.2937763521446806,1.0,0,0,0,0,1,0,3.949
+-0.0115201220553025,3.0,0,1,0,0,1,0,7.4
+0.255061214761616,3.0,0,1,0,0,0,0,10.1
+-1.2191335778359431,1.0,0,0,0,0,0,1,3.058
+-0.0541731359460094,2.0,0,1,0,0,0,0,8.3
+-0.7392871715654901,2.0,0,1,0,0,0,0,5.65
+0.2577270281297852,3.0,0,1,0,0,0,0,9.0
+-0.6086623165252,2.0,0,0,0,0,1,0,6.499
+-1.1924754441542516,1.0,0,0,0,1,0,0,3.7
+2.0491536115394777,5.0,0,0,0,0,0,0,13.0
+1.3187207486611208,3.0,0,1,1,0,0,0,17.8
+1.4013609630743655,3.0,0,0,0,1,0,0,9.6
+3.536677470977883,5.0,0,1,0,0,0,0,18.8
+-0.4300528208578645,2.0,0,0,0,0,0,0,6.88
+0.2737219083388003,3.0,0,0,0,0,0,0,8.9
+0.003141851469628,2.0,0,1,0,0,0,0,7.5
+0.6949204205095315,2.0,0,0,0,1,0,0,7.9
+-0.2221193781406681,3.0,0,0,0,0,0,1,5.4
+-0.4007288738080035,2.0,0,1,0,0,0,0,7.4
+0.7189127408230542,3.0,0,0,0,1,0,0,8.0
+-0.278101458872221,2.0,1,1,0,0,0,0,9.5
+0.5136451114740269,3.0,0,1,0,0,0,0,10.8
+0.7269101809275618,3.0,0,1,0,0,0,0,12.9
+-0.2274510048770065,2.0,0,1,0,0,0,0,8.149
+2.001168970912432,4.0,0,1,0,0,0,0,13.5
+0.1137731062486492,2.5,0,1,0,0,0,0,7.503
+1.0094863979534954,3.0,0,1,0,0,0,0,13.9
+-0.2887647123448977,2.0,0,1,0,0,0,0,7.45
+-1.0698480292184689,1.0,0,1,0,0,1,0,3.9
+-0.1154868434139007,2.0,0,0,0,0,0,0,7.300000000000001
+1.01081930463758,3.0,1,1,0,0,0,0,17.5
+-0.3980630604398343,2.0,0,1,0,0,0,0,5.056000000000001
+-0.2940963390812361,2.0,0,0,0,0,0,0,11.8
+0.3696911895928909,3.0,0,1,0,0,0,0,8.209999999999999
+-0.2754356455040518,2.0,0,1,0,0,0,0,8.0
+-0.37940236686265,2.0,0,0,0,0,0,0,6.88
+-0.0568389493141786,3.0,0,0,0,1,0,0,6.1000000000000005
+0.1857500671892172,2.0,0,1,0,0,0,0,5.7
+-0.2221193781406681,2.0,0,0,0,0,0,0,7.9
+4.141817105552288,4.5,1,1,0,0,0,0,42.0
+-0.4753716481167407,2.0,0,0,0,0,0,0,4.55
+-0.0754996428913629,2.0,0,0,0,1,0,0,6.1000000000000005
+-0.2594407652950367,2.0,0,0,0,1,0,0,5.7
+-0.7126290378837982,2.0,0,1,0,0,0,0,4.843
+-0.1314817236229158,2.0,0,1,0,0,0,0,8.059000000000001
+0.4443339639016281,3.0,0,1,0,0,0,0,13.6
+-0.6006648764206924,2.0,0,0,0,0,0,1,4.5520000000000005
+-0.6646443972567528,2.0,0,0,0,0,0,1,4.73
+-0.5953332496843541,2.0,0,0,0,0,0,0,4.7700000000000005
+-0.9338915474418406,1.0,0,1,0,0,0,0,4.2
+-0.1234842835184082,2.5,0,1,0,0,0,0,6.938
+-0.4860349015894175,2.0,0,1,0,0,0,0,6.841
+-0.5633434892663238,2.0,0,0,0,0,0,0,4.791
+0.5323058050512113,3.0,0,1,0,0,0,0,9.2
+0.644269966514317,3.0,1,1,0,0,0,0,12.9
+3.064828504811937,4.0,0,1,0,0,0,0,21.5
+0.2923826019159846,3.0,0,1,0,0,0,0,10.3
+-0.8485855196604266,1.0,0,1,0,0,0,0,6.5
+-0.1048235899412239,3.0,0,1,0,0,0,0,6.7
+-0.8325906394514115,3.0,0,1,0,0,0,0,2.6
+-0.3020937791857437,2.0,0,0,0,0,0,0,7.0
+0.3323698024385224,3.0,0,1,0,0,1,0,8.9
+-0.6833050908339372,2.0,0,0,0,0,0,1,4.349
+-0.2247851915088373,3.0,0,0,0,0,0,0,6.6000000000000005
+0.0284670784672352,2.0,0,1,0,0,0,0,11.8
+0.0178038249945585,2.0,0,0,0,0,0,0,7.800000000000001
+-0.5353524489005473,2.0,0,0,0,0,0,0,5.9
+-1.301773792249188,1.0,0,0,0,0,1,0,3.949
+1.8278911019814352,5.0,0,1,0,0,0,0,16.3
+-0.2887647123448977,2.5,0,0,0,0,0,1,5.522
+1.5773046453735318,3.0,0,0,0,1,0,0,10.0
+0.7495695945569998,3.0,0,1,0,0,0,0,10.0
+-0.422055380753357,2.0,0,0,0,0,0,0,11.1
+1.5186567512738098,3.0,0,1,1,0,0,0,18.7
+-0.6113281298933692,2.0,0,0,0,0,0,0,4.759
+-1.373750753189756,1.0,0,0,0,0,0,0,3.3000000000000003
+0.097778226039634,2.0,0,0,0,0,0,0,8.3
+1.1241163727847705,3.0,0,1,1,0,0,0,17.0
+0.0311328918354044,2.0,0,1,0,0,0,0,6.5
+-0.3727378334422271,2.0,1,1,0,0,0,0,5.800000000000001
+-0.5953332496843541,2.0,0,1,0,0,0,0,5.414000000000001
+-0.4313857275419491,2.0,0,1,0,0,0,0,5.9
+-0.4247211941215262,2.0,0,1,0,0,0,0,9.5
+-0.0395111624210789,3.0,0,1,0,0,0,0,7.800000000000001
+-0.5953332496843541,2.0,0,1,0,0,0,0,5.5
+-0.7046315977792906,2.0,0,0,0,1,0,0,5.9990000000000006
+0.6949204205095315,3.0,0,1,0,0,0,0,14.6
+1.9478527035490485,3.0,0,1,0,0,0,0,15.9
+0.5696271922055799,3.0,1,1,0,0,0,0,13.5
+0.2577270281297852,3.0,0,1,0,0,0,0,7.902
+-1.1551540569998828,1.0,0,1,0,0,0,0,4.55
+-0.6353204502068918,2.0,0,0,0,0,0,1,4.444
+-1.072513842586638,1.0,0,0,0,0,0,0,3.9
+1.883873182712988,4.0,1,1,0,0,0,0,23.0
+0.0631226522534346,3.0,0,0,0,0,0,0,8.4
+0.7695631948182687,3.0,0,1,0,0,0,0,12.8
+0.9215145568039124,3.0,0,1,1,0,0,0,16.1
+0.3643595628565526,3.0,0,1,0,0,0,0,7.9
+-0.5820041828435081,2.0,0,0,0,0,0,0,6.2
+-0.5366853555846319,2.0,0,1,0,0,0,0,6.23
+-0.4353844475942029,2.0,1,1,0,0,0,0,8.700000000000001
+-0.4460477010668797,2.0,0,0,0,0,0,0,5.1000000000000005
+-0.0301808156324868,2.0,0,1,0,0,0,0,9.7
+-1.0778454693229766,1.0,0,1,0,0,0,0,4.38
+-0.6033306897888616,2.0,0,0,0,0,1,0,6.499
+-0.3180886593947588,2.0,0,1,0,0,1,0,6.5
+-0.4300528208578645,2.0,0,0,0,0,0,0,6.0
+-0.1554740439364385,3.0,0,1,0,0,0,0,6.6000000000000005
+-0.2247851915088373,2.0,0,0,0,0,0,0,5.6000000000000005
+-0.7126290378837982,2.0,0,0,0,0,0,0,4.57
+-0.4700400213804023,2.0,0,0,0,0,0,0,4.74
+0.8335427156543291,3.0,0,1,0,0,0,0,13.3
+-0.4487135144350488,2.0,0,0,1,0,0,0,5.2
+-0.5206904753756169,2.0,0,0,0,0,0,0,4.8020000000000005
+0.7642315680819304,2.0,0,1,0,0,0,0,6.800000000000001
+-0.2701040187677134,2.0,0,1,0,0,0,0,7.800000000000001
+-0.3127570326584204,2.0,1,1,0,0,0,0,9.068
+-0.3820681802308192,2.0,0,1,0,0,0,0,5.7
+-1.355090059612572,2.0,0,0,0,0,0,0,1.729
+-1.1924754441542516,1.0,0,1,0,0,0,0,3.6
+-0.6699760239930912,2.0,0,0,0,0,0,1,4.383
+0.4203416435881055,3.0,1,1,0,0,0,0,9.5
+2.0731459318530003,3.5,0,1,1,0,0,0,21.1
+2.257087054256674,3.5,1,1,0,0,0,0,25.0
+-0.6593127705204145,2.0,0,0,0,0,0,0,4.32
